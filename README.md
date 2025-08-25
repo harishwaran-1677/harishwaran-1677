@@ -54,5 +54,5 @@
   <a href="https://dev.to/yourusername" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/devdotto.svg" alt="dev.to" height="30" width="40" />
   </a>
-  ---
 </p>
+___
