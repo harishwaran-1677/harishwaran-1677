@@ -1,10 +1,58 @@
-# ***Hi!👋 I am Harishwaran
-|Web Developer|Logical Thinker|AI Developer|
-## About me:
-- Passionate about Web Design, Code Creation.
-- From Batlagundu, Dindigul.
-- Motto become Software Developer.
-# Tech Stack:
-![]()
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Harishwaran</h1>
+<h3 align="center">A passionate Software Developer</h3>
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2E4bG0zbzUxYjk4bWNhMnc2cmJzZDZ4bWx3c3EzNHo4NG13ODZzNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif)
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/harishwaran-1677">
+    <img src="https://img.shields.io/github/followers/harishwaranlabel=Follow&style=social" />
+  </a>
+</p>
+
+<!-- Short Intro -->
+- 🔭 I’m currently working on **AI Development**
+- 🌱 I’m currently learning **AI&DS**
+- 💬 Ask me about **PYTHON**
+- 📫 How to reach me: **harishwaranpandi@gmail.com**
+
+<!-- Tech Stack -->
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,nodejs,express,python,java,tailwind,bootstrap,git,github,docker,linux,mysql,mongodb,postman" />
+</p>
+
+<!-- GitHub Stats -->
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+</p>
+
+<!-- Trophies (Optional) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub" />
+</p>
+
+<!-- Connect with Me -->
+### 🤝 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="twitter" height="30" width="40" />
+  </a>
+  <a href="https://dev.to/yourusername" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/devdotto.svg" alt="dev.to" height="30" width="40" />
+  </a>
+  ---
+</p>
