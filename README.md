@@ -1,48 +1,39 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Harishwaran</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<!-- Badges -->
 <p align="center">
   <a href="https://github.com/harishwaran-1677">
     <img src="https://img.shields.io/github/followers/harishwaranlabel=Follow&style=social" />
   </a>
 </p>
 
-<!-- Short Intro -->
 - 🔭 I’m currently working on **AI Development**
 - 🌱 I’m currently learning **AI&DS**
 - 💬 Ask me about **PYTHON**
 - 📫 How to reach me: **harishwaranpandi@gmail.com**
 
-<!-- Tech Stack -->
 ### 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,nodejs,express,python,java,tailwind,bootstrap,git,github,docker,linux,mysql,mongodb,postman" />
 </p>
 
-<!-- GitHub Stats -->
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="harishwaran" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
 </p>
 
-<!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
 </p>
 
-<!-- Trophies (Optional) -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub" />
 </p>
 
-<!-- Connect with Me -->
 ### 🤝 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/yourprofile" target="blank">
